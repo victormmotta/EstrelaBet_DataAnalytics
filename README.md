@@ -60,3 +60,14 @@ Durante meu período na EstrelaBet, desempenhei um papel fundamental na implemen
 - Implementação de pipelines de processamento de dados na infraestrutura de nuvem da AWS, utilizando serviços como AWS Glue, Athena e S3 para executar transformações e limpezas de dados em larga escala, garantindo a eficiência e confiabilidade do sistema.
 
 Meu trabalho em engenharia de dados na EstrelaBet demonstra minha capacidade de projetar e implementar soluções robustas que garantem a qualidade e integridade dos dados, facilitando análises precisas e decisões estratégicas fundamentadas.
+
+# Migração
+Decidi criar um tópico específico para minha experiência na migração de banco de dados na EstrelaBet
+
+Durante minha atuação na EstrelaBet, liderei o desenvolvimento e implementação de uma pipeline de extração e tratamento de dados altamente eficiente, que desempenhou um papel crucial na integridade e qualidade dos dados utilizados para análises e tomadas de decisão estratégicas. Essa pipeline foi construída utilizando uma combinação de tecnologias e serviços de nuvem, incluindo AWS S3, AWS Glue, Athena e DBT.
+
+O processo teve início com a extração de dados do banco de dados Athena, onde os dados brutos foram obtidos e armazenados em um bucket S3 dedicado, garantindo um armazenamento seguro e escalável. Em seguida, utilizei os recursos poderosos do AWS Glue para realizar transformações complexas nos dados, garantindo a conformidade com os requisitos específicos do negócio e a limpeza de quaisquer inconsistências ou anomalias nos dados brutos.
+
+Uma vez que os dados foram adequadamente tratados e transformados, utilizei o DBT (Data Build Tool) para criar e gerenciar uma tabela bem estruturada, proporcionando uma base sólida para análises avançadas e geração de relatórios precisos. A implementação cuidadosa dessa pipeline resultou em uma melhoria significativa na eficiência operacional, reduzindo o tempo de processamento e garantindo a integridade dos dados ao longo de todo o ciclo de vida.
+
+Além disso, a configuração cuidadosa da pipeline permitiu a fácil integração com sistemas de análise de dados avançados, fornecendo insights valiosos para as equipes de análise e tomada de decisão da empresa. Esse trabalho demonstrou minha habilidade em projetar e implementar soluções de engenharia de dados robustas e eficazes, que impulsionaram diretamente a capacidade da empresa de utilizar dados como um ativo estratégico para impulsionar o crescimento e o sucesso do negócio.
